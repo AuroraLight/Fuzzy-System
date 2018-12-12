@@ -1,7 +1,7 @@
 # Fuzzy-System
 Practice fuzzy algorithm
 
-* # GA
+* #GA
 ## 一、程式介面說明
 >程式執行後，會顯示一個GUI介面，左半部canvas繪出預設的車子軌道，右半部依序為迭代次數、族群大小、交配機率、突變機率以及隱藏層神經元個數的設定，這些選項都會有一個預先設定值。開啟檔案按鈕提供使用者自行選取用來訓練RBFN的資料(ex: train4dAll.txt)，在開啟檔案後，run按鈕才能被點選，按下run後，程式執行RBFN訓練並讓車子根據RBFN的結果行走，最後左半部canvas繪出到達終點的結果。
  
