@@ -1,5 +1,5 @@
 #  Particle Swarm Optimization(PSO)
-practice PSO algorithm
+PSO function desciption
 
 #### RBFN.py
 >* Function normalize_data(): 正規化資料(e.g. -1 <= xi <= 1, -1 <= yi <= 1)
